@@ -1,8 +1,0 @@
-streamlit
-pandas
-requests
-python-dotenv
-matplotlib
-anthropic
-plotly
-numpy
